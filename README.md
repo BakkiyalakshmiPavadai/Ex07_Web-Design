@@ -159,9 +159,7 @@ Enter option for doing the corresponding operation
 </body>
 </html>
 ##OUTPUT
-![Screenshot (70)](https://github.com/BakkiyalakshmiPavadai/Ex07_Web-Design/assets/127816647/68b4f615-0a05-4cdd-9673-35ad0e971483)
-![Screenshot (75)](https://github.com/BakkiyalakshmiPavadai/Ex07_Web-Design/assets/127816647/413dfc71-ace3-44c0-b813-814f68752345)
-
-
-## RESULT
+![Screenshot (70)](https://github.com/BakkiyalakshmiPavadai/Ex07_Web-Design/assets/127816647/41d098f0-323a-43fb-8dfc-cce45af2ef2f)
+[Screenshot (75)](https://github.com/BakkiyalakshmiPavadai/Ex07_Web-Design/assets/127816647/2c30e0a5-1a46-416c-98c9-8d3773936efe)
+##RESULT!
   Implementation of a Simple Calculator using JavaScript is done successfully.
