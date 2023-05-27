@@ -160,6 +160,7 @@ Enter option for doing the corresponding operation
 ```
 ##OUTPUT
 ![Screenshot (70)](https://github.com/BakkiyalakshmiPavadai/Ex07_Web-Design/assets/127816647/41d098f0-323a-43fb-8dfc-cce45af2ef2f)
-[Screenshot (75)](https://github.com/BakkiyalakshmiPavadai/Ex07_Web-Design/assets/127816647/2c30e0a5-1a46-416c-98c9-8d3773936efe)
+![Screenshot (75)](https://github.com/BakkiyalakshmiPavadai/Ex07_Web-Design/assets/127816647/5c937791-a47c-42fb-bafc-575a1b423253)
+
 ##RESULT!
   Implementation of a Simple Calculator using JavaScript is done successfully.
